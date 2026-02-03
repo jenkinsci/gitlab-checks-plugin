@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin implements <a href="https://plugins.jenkins.io/checks-api">Checks API</a> for jobs that use <a href="https://plugins.jenkins.io/gitlab-branch-source/">GitLab Branch source</a> plugin.
+</div>
